@@ -9,3 +9,9 @@ practice file for learning git commands
   - Python
   - Java
   - Typescript
+
+  **Hobbies**:
+  - Photography
+  - Teaching TDD
+  - Cooking
+  - Collection CDs
